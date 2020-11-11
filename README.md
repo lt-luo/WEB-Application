@@ -1,2 +1,13 @@
 # WEB-Application
 用JAVA开发的WEB服务器和浏览器
+
+代码文件中
+如果没有SWT包的话，需要安装SWT包，这个在网上可以找到
+
+然后其中WebServer3和Client是WEB服务器和测试程序
+WebServer3直接点run运行就好了
+Client的话可以在主函数修改请求头，然后运行就好了
+
+剩下的几个MySWTBrowser,MyDownload,MyMenu,EMAILTEST
+都是浏览器的一些程序
+测试的时候直接运行MySWTBrowser程序，然后点击想要测的功能就好了
